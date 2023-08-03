@@ -1,4 +1,4 @@
-import CustomButton from "./CustomBotton";
+import CustomButton from "./CustomButton";
 import AIPicker from "./AIPicker";
 import ColorPicker from "./ColorPicker";
 import FilePicker from "./FilePicker";
